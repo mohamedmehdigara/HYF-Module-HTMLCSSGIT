@@ -1,0 +1,13 @@
+img {
+  margin-left: 300;
+  margin-right: 300;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 50%;
+}
+
+h1 {
+  margin: 0;
+
+  background: red;
+}

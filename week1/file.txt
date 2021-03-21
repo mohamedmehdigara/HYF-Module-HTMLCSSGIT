@@ -1,0 +1,7 @@
+1) Create a hidden file or folder: mv filename .filename
+Display the hidden file in CLI: dir /a:hd C:\folder\
+
+2) Create multiple nested directories: mkdir -p directory/{subdirectory1, subdirectory2, subdirectory3, subdirectory4}
+
+3) Append a message to a file, without a newline character so the output will be "first message
+second message": printf %s 'echo "bla bla" ifcon' >> file
